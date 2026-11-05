@@ -1,0 +1,3 @@
+<resources>
+    <string name="speech_unavailable">Для этого языка не установлен офлайн-голос. Добавьте его в настройках синтеза речи Android.</string>
+</resources>

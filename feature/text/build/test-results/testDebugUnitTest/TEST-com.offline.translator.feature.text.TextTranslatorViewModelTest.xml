@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.offline.translator.feature.text.TextTranslatorViewModelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-11-04T20:14:05.191Z" hostname="Aram" time="0.136">
+  <properties/>
+  <testcase name="rapidTypingOnlyTranslatesLatestInputAfterDebounce" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.114"/>
+  <testcase name="successfulTranslationIsRecordedAndHistoryActionsDoNotRetranslate" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.005"/>
+  <testcase name="clearingInputCancelsWorkAndLeavesIdleState" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.002"/>
+  <testcase name="swappingAutoDetectedResultUsesDetectedSourceAndTranslatedText" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.002"/>
+  <testcase name="restoringHistoryRestoresTextAndDirectionTogether" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.002"/>
+  <testcase name="savedInputAndDirectionAreRestored" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.001"/>
+  <testcase name="newInputCancelsInFlightTranslationAndClearsResult" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.003"/>
+  <testcase name="historyFailureDoesNotDiscardSuccessfulTranslation" classname="com.offline.translator.feature.text.TextTranslatorViewModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

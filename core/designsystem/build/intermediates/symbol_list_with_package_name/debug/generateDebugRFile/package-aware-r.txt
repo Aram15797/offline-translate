@@ -1,0 +1,2 @@
+com.offline.translator.core.designsystem
+drawable lingua_mark

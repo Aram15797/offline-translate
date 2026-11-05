@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.4.1" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="string[models_title(U),models_privacy(U),models_unmetered(U),models_import(U),models_revision(U),models_empty(U),models_details(U),models_available(U),models_queued(U),models_downloading(U),models_verifying(U),models_unpacking(U),models_installed(U),models_paused(U),models_pause(U),models_resume(U),models_download(U),models_remove(U),models_cancel(U),models_remove_title(U),models_remove_message(U),models_error_catalog(U),models_error_signature(U),models_error_expired(U),models_error_rollback(U),models_error_network(U),models_error_response(U),models_error_storage(U),models_error_checksum(U),models_error_archive(U),models_error_io(U),models_refresh(U)];;;;"/>
+    </map>
+
+</incidents>

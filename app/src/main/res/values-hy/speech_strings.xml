@@ -1,0 +1,3 @@
+<resources>
+    <string name="speech_unavailable">Այս լեզվի համար անցանց ձայն տեղադրված չէ։ Ավելացրեք այն Android-ի խոսքի սինթեզի կարգավորումներում։</string>
+</resources>

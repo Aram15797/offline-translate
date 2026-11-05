@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.4.1" type="partial_results">
+    <map id="UnusedResources">
+        <location id="R.string.audio_busy"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="122"
+            column="13"
+            startOffset="8818"
+            endLine="122"
+            endColumn="30"
+            endOffset="8835"/>
+        <location id="R.string.camera_unavailable"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="120"
+            column="13"
+            startOffset="8629"
+            endLine="120"
+            endColumn="38"
+            endOffset="8654"/>
+        <location id="R.string.first_stage_note"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="26"
+            column="13"
+            startOffset="1573"
+            endLine="26"
+            endColumn="36"
+            endOffset="1596"/>
+        <location id="R.string.image_failed"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="119"
+            column="13"
+            startOffset="8523"
+            endLine="119"
+            endColumn="32"
+            endOffset="8542"/>
+        <location id="R.string.microphone_denied"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="117"
+            column="13"
+            startOffset="8340"
+            endLine="117"
+            endColumn="37"
+            endOffset="8364"/>
+        <location id="R.string.recording_failed"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="118"
+            column="13"
+            startOffset="8429"
+            endLine="118"
+            endColumn="36"
+            endOffset="8452"/>
+        <location id="R.string.settings_save_failed"
+            file="${:feature:text*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="110"
+            column="13"
+            startOffset="7891"
+            endLine="110"
+            endColumn="40"
+            endOffset="7918"/>
+        <entry
+            name="model"
+            string="drawable[lingua_mark(R)],string[product_name(U),product_subtitle(U),offline_badge(U),tab_text(U),tab_phrasebook(U),tab_models(U),phrasebook_intro(U),use_phrase(U),swap_languages(U),source_text(U),input_hint(U),clear(U),translation(U),translating(U),translation_failed(U),retry(U),origin_phrasebook(U),origin_identity(U),origin_offline(U),origin_online(U),model_required(U),language_undetected(U),online_unavailable(U),result_hint(U),first_stage_note(D),select_language(U),close(U),language_armenian(U),language_russian(U),language_english(U),language_auto(U),copy(U),share(U),large_text(U),insert_translation(U),appearance(U),theme_system(U),theme_light(U),theme_dark(U),editor_title(U),editor_subtitle(U),tab_history(U),auto_translate(U),listen(U),save(U),saved(U),all(U),favorites(U),category_essentials(U),category_travel(U),category_restaurant(U),category_health(U),search(U),search_hint(U),no_results(U),history_subtitle(U),history_empty(U),history_empty_hint(U),history_failed(U),history_direction(U),clear_history(U),clear_history_confirm(U),open_translation(U),learn(U),learning_done(U),learning_progress(U),next_card(U),reveal(U),repeat_cards(U),settings(U),interface_language(U),interface_language_hint(U),theme_amoled(U),dynamic_colors(U),dynamic_colors_hint(U),speech_settings(U),speech_rate(U),offline_voice_hint(U),system_voice_settings(U),privacy_title(U),privacy_description(U),stop_speech(U),auto_label(U),native_armenian(U),native_russian(U),native_english(U),cloud_settings(U),cloud_explanation(U),offline_only(U),service_address(U),service_address_hint(U),service_token(U),cloud_consent(U),save_configuration(U),check_connection(U),connection_ready(U),cloud_badge(U),cloud_mode_note(U),offline_mode_note(U),cloud_not_configured(U),cloud_unauthorized(U),cloud_rate_limited(U),cloud_timeout(U),cloud_invalid_response(U),cloud_server_error(U),cloud_consent_required(U),cloud_too_large(U),cloud_no_text(U),settings_save_failed(D),voice_input(U),photo_input(U),camera_input(U),finish_recording(U),cancel_media(U),recording_note(U),microphone_denied(D),recording_failed(D),image_failed(D),camera_unavailable(D),synthetic_voice_note(U),audio_busy(D)];;;;"/>
+    </map>
+
+</incidents>

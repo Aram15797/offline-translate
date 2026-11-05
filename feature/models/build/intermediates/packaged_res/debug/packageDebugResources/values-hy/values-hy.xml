@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="models_available">Պատրաստ է ներբեռնման</string>
+    <string name="models_cancel">Չեղարկել</string>
+    <string name="models_details">Տարբերակ %1$s · %2$s · %3$.1f ՄԲ</string>
+    <string name="models_download">Տեղադրել</string>
+    <string name="models_downloading">Ներբեռնվում է · %1$d%%</string>
+    <string name="models_empty">Մոդելների փաթեթները դեռ հրապարակված չեն։ Երբ հասանելի լինեն, կկարողանաք տեղադրել այստեղ։</string>
+    <string name="models_error_archive">Արխիվը վնասված է կամ անվտանգ չէ։</string>
+    <string name="models_error_catalog">Կատալոգի ձևաչափը սխալ է։</string>
+    <string name="models_error_checksum">Ֆայլի ստուգումը ձախողվել է։ Ներբեռնեք փաթեթը կրկին։</string>
+    <string name="models_error_expired">Կատալոգի ժամկետը լրացել է։ Թարմացրեք ցանկը կամ ներմուծեք նոր կատալոգ։</string>
+    <string name="models_error_io">Չհաջողվեց մշակել մոդելի ֆայլերը կամ սկսել ներբեռնումը։</string>
+    <string name="models_error_network">Ներբեռնումն ընդհատվել է։ Շարունակեք ցանցի վերականգնումից հետո։</string>
+    <string name="models_error_response">Սերվերը ներբեռնման սխալ պատասխան է վերադարձրել։</string>
+    <string name="models_error_rollback">Կատալոգի այս տարբերակն արդեն տեղադրված է կամ հնացած է։</string>
+    <string name="models_error_signature">Կատալոգի ստորագրությունը չի հաստատվել։</string>
+    <string name="models_error_storage">Մոդելը ներբեռնելու և բացելու համար բավարար տարածք չկա։</string>
+    <string name="models_import">Ներմուծել կատալոգը</string>
+    <string name="models_installed">Ֆայլերը տեղադրված են</string>
+    <string name="models_pause">Դադարեցնել</string>
+    <string name="models_paused">Դադարեցված է · պահպանվել է %1$d%%</string>
+    <string name="models_privacy">Ներբեռնեք լեզվային փաթեթներ՝ անցանց աշխատելու համար։ Կատալոգին ձեր տեքստը չի ուղարկվում։</string>
+    <string name="models_queued">Հերթում՝ սպասում է ցանցին կամ այլ ներբեռնման ավարտին</string>
+    <string name="models_refresh">Թարմացնել մոդելների ցանկը</string>
+    <string name="models_remove">Հեռացնել</string>
+    <string name="models_remove_message">%1$s փաթեթի ֆայլերը և անավարտ ներբեռնումը կհեռացվեն։</string>
+    <string name="models_remove_title">Հեռացնե՞լ փաթեթը</string>
+    <string name="models_resume">Շարունակել</string>
+    <string name="models_revision">Կատալոգի տարբերակ՝ %1$d</string>
+    <string name="models_title">Անցանց մոդելներ</string>
+    <string name="models_unmetered">Միայն անսահմանափակ ցանց</string>
+    <string name="models_unpacking">Ֆայլերի տեղադրում</string>
+    <string name="models_verifying">Ֆայլի ստուգում</string>
+</resources>

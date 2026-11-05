@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.offline.translator.data.translation.LocalPhrasebookTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-11-04T20:05:20.227Z" hostname="Aram" time="0.129">
+  <properties/>
+  <testcase name="mixedScriptsAndNumbersRequireManualLanguage" classname="com.offline.translator.data.translation.LocalPhrasebookTest" time="0.087"/>
+  <testcase name="unknownTextRequiresModel" classname="com.offline.translator.data.translation.LocalPhrasebookTest" time="0.003"/>
+  <testcase name="everyPhraseWorksInAllSixDirectionsWithAutoDetection" classname="com.offline.translator.data.translation.LocalPhrasebookTest" time="0.029"/>
+  <testcase name="matchingIgnoresCaseWhitespaceAndPunctuation" classname="com.offline.translator.data.translation.LocalPhrasebookTest" time="0.001"/>
+  <testcase name="whitespaceOnlyIsEmpty" classname="com.offline.translator.data.translation.LocalPhrasebookTest" time="0.001"/>
+  <testcase name="sameLanguageReturnsOriginalWithoutModel" classname="com.offline.translator.data.translation.LocalPhrasebookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

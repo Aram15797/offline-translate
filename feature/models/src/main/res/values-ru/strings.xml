@@ -1,0 +1,34 @@
+<resources>
+    <string name="models_title">Офлайн-модели</string>
+    <string name="models_privacy">Загрузите языковые пакеты для работы офлайн. Каталог получает только запросы файлов, без вашего текста.</string>
+    <string name="models_unmetered">Только безлимитная сеть</string>
+    <string name="models_import">Импорт каталога</string>
+    <string name="models_revision">Версия каталога: %1$d</string>
+    <string name="models_empty">Пакеты моделей ещё не опубликованы. Когда они появятся, вы сможете установить их здесь.</string>
+    <string name="models_details">Версия %1$s · %2$s · %3$.1f МБ</string>
+    <string name="models_available">Готово к загрузке</string>
+    <string name="models_queued">В очереди · ожидание сети или другой загрузки</string>
+    <string name="models_downloading">Загрузка · %1$d%%</string>
+    <string name="models_verifying">Проверка файла</string>
+    <string name="models_unpacking">Установка файлов</string>
+    <string name="models_installed">Файлы установлены</string>
+    <string name="models_paused">Приостановлено · сохранено %1$d%%</string>
+    <string name="models_pause">Пауза</string>
+    <string name="models_resume">Продолжить</string>
+    <string name="models_download">Установить</string>
+    <string name="models_remove">Удалить</string>
+    <string name="models_cancel">Отмена</string>
+    <string name="models_remove_title">Удалить пакет?</string>
+    <string name="models_remove_message">Файлы и незавершённая загрузка пакета %1$s будут удалены.</string>
+    <string name="models_error_catalog">Некорректный формат каталога.</string>
+    <string name="models_error_signature">Подпись каталога не подтверждена.</string>
+    <string name="models_error_expired">Срок действия каталога истёк. Обновите список или импортируйте новый каталог.</string>
+    <string name="models_error_rollback">Эта версия каталога уже установлена или устарела.</string>
+    <string name="models_error_network">Загрузка прервана. Продолжите после восстановления сети.</string>
+    <string name="models_error_response">Сервер вернул некорректный ответ загрузки.</string>
+    <string name="models_error_storage">Недостаточно места для загрузки и распаковки модели.</string>
+    <string name="models_error_checksum">Проверка файла не пройдена. Загрузите пакет заново.</string>
+    <string name="models_error_archive">Архив повреждён или небезопасен.</string>
+    <string name="models_error_io">Не удалось обработать файлы модели или запустить загрузку.</string>
+    <string name="models_refresh">Обновить список моделей</string>
+</resources>

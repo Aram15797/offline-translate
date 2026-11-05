@@ -1,0 +1,9 @@
+com.offline.translator.core.designsystem-pngs-0 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/build/generated/res/pngs/debug
+com.offline.translator.core.designsystem-updated_navigation_xml-1 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/build/generated/updated_navigation_xml/debug
+com.offline.translator.core.designsystem-mergeDebugResources-2 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.offline.translator.core.designsystem-mergeDebugResources-3 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.offline.translator.core.designsystem-debug-4 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/build/intermediates/merged_res/debug/mergeDebugResources
+com.offline.translator.core.designsystem-debug-5 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/build/intermediates/packaged_res/debug/packageDebugResources
+com.offline.translator.core.designsystem-debug-6 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/src/debug/res
+com.offline.translator.core.designsystem-main-7 /home/aram/AndroidStudioProjects/OfflineTranslator/core/designsystem/src/main/res
+gradleHome-0 /home/aram/.gradle

@@ -1,0 +1,3 @@
+<resources>
+    <string name="speech_unavailable">No offline voice is installed for this language. Install one in Android text-to-speech settings.</string>
+</resources>

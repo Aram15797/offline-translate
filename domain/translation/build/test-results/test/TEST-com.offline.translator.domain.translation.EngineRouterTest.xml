@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.offline.translator.domain.translation.EngineRouterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-04T20:05:14.147Z" hostname="Aram" time="0.097">
+  <properties/>
+  <testcase name="missingNetworkReportsUnavailable" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.083"/>
+  <testcase name="unknownScriptDoesNotLeaveDeviceWithoutConsent" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.002"/>
+  <testcase name="cloudRequiresExplicitConsent" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.001"/>
+  <testcase name="consentingUserCanUseCloudDetectionWhenLocalScriptDetectionFails" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.002"/>
+  <testcase name="consentingUserCanFallbackToCloud" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.001"/>
+  <testcase name="offlineOnlyNeverCallsCloudEvenWithConsentAndNetwork" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.001"/>
+  <testcase name="localSuccessTakesPriorityOverCloud" classname="com.offline.translator.domain.translation.EngineRouterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

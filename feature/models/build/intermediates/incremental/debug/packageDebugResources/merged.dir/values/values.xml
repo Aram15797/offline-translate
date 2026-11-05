@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="models_available">Ready to download</string>
+    <string name="models_cancel">Cancel</string>
+    <string name="models_details">Version %1$s · %2$s · %3$.1f MB</string>
+    <string name="models_download">Install</string>
+    <string name="models_downloading">Downloading · %1$d%%</string>
+    <string name="models_empty">No model packages have been published yet. They will appear here when available.</string>
+    <string name="models_error_archive">The archive is invalid or unsafe.</string>
+    <string name="models_error_catalog">Invalid catalog format.</string>
+    <string name="models_error_checksum">File verification failed. Download the package again.</string>
+    <string name="models_error_expired">The catalog has expired. Refresh the list or import an updated catalog.</string>
+    <string name="models_error_io">Could not access model files or start the download.</string>
+    <string name="models_error_network">Download interrupted. Resume when the network is available.</string>
+    <string name="models_error_response">The server returned an invalid download.</string>
+    <string name="models_error_rollback">This catalog version is already installed or is older.</string>
+    <string name="models_error_signature">Catalog signature could not be verified.</string>
+    <string name="models_error_storage">Not enough storage to download and unpack this model.</string>
+    <string name="models_import">Import catalog</string>
+    <string name="models_installed">Files installed</string>
+    <string name="models_pause">Pause</string>
+    <string name="models_paused">Paused · %1$d%% saved</string>
+    <string name="models_privacy">Download language packs to use offline. Model files are downloaded; your text is not sent to the model catalog.</string>
+    <string name="models_queued">Queued · waiting for network or another download</string>
+    <string name="models_refresh">Refresh model list</string>
+    <string name="models_remove">Remove</string>
+    <string name="models_remove_message">Files and unfinished downloads for %1$s will be removed.</string>
+    <string name="models_remove_title">Remove package?</string>
+    <string name="models_resume">Resume</string>
+    <string name="models_revision">Catalog revision: %1$d</string>
+    <string name="models_title">Offline models</string>
+    <string name="models_unmetered">Unmetered network only</string>
+    <string name="models_unpacking">Installing files</string>
+    <string name="models_verifying">Verifying file</string>
+</resources>

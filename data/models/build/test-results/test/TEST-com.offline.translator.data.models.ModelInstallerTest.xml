@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.offline.translator.data.models.ModelInstallerTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-11-05T12:32:57.625Z" hostname="Aram" time="0.125">
+  <properties/>
+  <testcase name="rejectsChecksumMismatchAndClearsPartial" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.058"/>
+  <testcase name="removalClearsAllVersionsWithoutDeletingSimilarModelIds" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.015"/>
+  <testcase name="installsVerifiedArchiveAndRemovesPartial" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.005"/>
+  <testcase name="boundsUnpackedSizeToPreventZipBomb" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.005"/>
+  <testcase name="refusesDownloadWhenStorageIsInsufficient" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.002"/>
+  <testcase name="resumesInterruptedDownloadUsingRange" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.009"/>
+  <testcase name="rejectsTraversalAbsolutePathsAndReservedMarker" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.015"/>
+  <testcase name="removalDeletesInstalledAndPartialFiles" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.004"/>
+  <testcase name="restartsWhenServerIgnoresRange" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.004"/>
+  <testcase name="rejectsWrongContentRangeAndClearsPartial" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.003"/>
+  <testcase name="cancellationPreservesCompletedDownloadForVerificationOnResume" classname="com.offline.translator.data.models.ModelInstallerTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

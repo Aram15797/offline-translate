@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.offline.translator.data.cloud.CloudGatewayTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-04T20:05:14.135Z" hostname="Aram" time="0.124">
+  <properties/>
+  <testcase name="oversizedTextIsRejectedBeforeSending" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.089"/>
+  <testcase name="invalidEndpointsAndHeaderInjectionCannotBeConfigured" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.003"/>
+  <testcase name="policiesPreventAnyNetworkRequestWithoutConsentOrInOfflineMode" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.008"/>
+  <testcase name="successfulTranslationValidatesLanguagesAndUsesOnlineOrigin" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.015"/>
+  <testcase name="authorizationRateLimitsTimeoutsAndMissingServerKeysHaveDistinctFailures" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.002"/>
+  <testcase name="cancellationIsNotTurnedIntoAnErrorOrRetried" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.001"/>
+  <testcase name="malformedAndMismatchedResultsCannotBecomeSuccessfulTranslations" classname="com.offline.translator.data.cloud.CloudGatewayTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

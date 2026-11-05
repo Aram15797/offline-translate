@@ -1,0 +1,3 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/lingua_mark"
+    android:insetLeft="24dp" android:insetTop="24dp" android:insetRight="24dp" android:insetBottom="24dp" />
